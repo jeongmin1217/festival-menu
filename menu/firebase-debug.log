@@ -1,0 +1,17 @@
+[debug] [2022-09-26T12:47:13.942Z] ----------------------------------------------------------------------
+[debug] [2022-09-26T12:47:13.944Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ballj\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js serve --only hosting
+[debug] [2022-09-26T12:47:13.944Z] CLI Version:   11.10.0
+[debug] [2022-09-26T12:47:13.945Z] Platform:      win32
+[debug] [2022-09-26T12:47:13.945Z] Node Version:  v18.9.0
+[debug] [2022-09-26T12:47:13.946Z] Time:          Mon Sep 26 2022 21:47:13 GMT+0900 (대한민국 표준시)
+[debug] [2022-09-26T12:47:13.946Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-09-26T12:47:13.951Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2022-09-26T12:47:14.763Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2022-09-26T12:47:14.764Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2022-09-26T12:47:19.015Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\ballj\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:253:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
